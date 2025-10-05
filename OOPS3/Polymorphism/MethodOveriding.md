@@ -52,8 +52,8 @@ Dog barks
 
 * `Animal` defines `sound()`.
 * `Dog` **overrides** `sound()` with its own implementation.
-* Even though the reference type is `Animal`, the **actual object is Dog**.
-* Hence, the **Dog’s version** executes — this is **Runtime Polymorphism**.
+*  Even though the reference type is `Animal`, the **actual object is Dog**.
+*  Hence, the **Dog’s version** executes — this is **Runtime Polymorphism**.
 
 ---
 
