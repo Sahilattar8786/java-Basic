@@ -29,4 +29,6 @@ class Dog extends Animal {
     void sound(){
         System.out.println("Dog sound");
     }
+    // static and final keyword cann't be override
+
 }
